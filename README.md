@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=FFC83D&text=YUNHYE's%&fontAlign=50&stroke=ECECEC&strokeWidth=2)
 
 <br />
