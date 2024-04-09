@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=25CC76&text=🦊%&fontAlign=50&stroke=ECECEC&strokeWidth=2)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=1000&color=2CCC40&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello%2C+world!;I'm+Yunhye.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=10&color=2CCC40&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=Hello%2C+world!;I'm+Yunhye.)](https://git.io/typing-svg)
 
 🌟 I love to learn & share <img src="https://img.shields.io/badge/My%20Tech%20Blog-20C997?logo=velog&style=flat-square&logoColor=black&link=https://velog.io/@riverhye"/></a>
 <br>
