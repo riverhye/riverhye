@@ -39,7 +39,7 @@
 
 <div align="center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=riverhye)]([벨로그링크](https://velog.io/@riverhye))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=riverhye)](https://velog.io/@riverhye/posts)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friverhye%2Fhit-counter&count_bg=%2324CC76&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
