@@ -8,8 +8,8 @@
 <h3>Front-End</h3>
 <p>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"></a>&nbsp
@@ -40,8 +40,6 @@
 <div align="center">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=riverhye)](https://velog.io/@riverhye/posts)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friverhye%2Fhit-counter&count_bg=%2324CC76&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
     
 </div>
 
