@@ -5,34 +5,40 @@
 
 </div>
 
-<h3>Front-End</h3>
-<p>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"></a>&nbsp
-</p>
-<h3>Back-End</h3>
-<p>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>&nbsp
-</p>
+## Front-End
 
-<h3>Collaboration & Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>&nbsp
-  <br>
-</p>
+![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Ant Design](https://img.shields.io/badge/ant_design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/tanstack_query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+## Back-End Experience
+
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## Infrastructure Experience
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+## Collaboration & Tools
+
+![Slack](https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 
 <br />
 <br />
